@@ -24,6 +24,7 @@ This app allows users to add books, view the book list, and automatically manage
 ---
 
 ## 📂 Project Structure
+```
 library-management/
 │
 ├── backend/
